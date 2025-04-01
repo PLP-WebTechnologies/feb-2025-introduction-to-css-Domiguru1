@@ -1,0 +1,46 @@
+* {
+    background-color: bisque;
+}
+.tbl-data {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 18px;
+    text-align: left;
+    }
+    th,td, h2 {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+    }
+    h2 {
+        text-decoration: underline;
+        text-decoration-color: blue;
+        
+    }
+    th {
+        background-color: grey;
+        color: white;
+    }
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: grey;
+        color: black;
+        text-align: center;
+       }
+    
+    img {
+        border: 5px solid red;
+        border-radius:20px;
+        display: block;
+        margin: auto;
+        width: 40%
+    }
+    #p-main {
+        color: red;
+        font-size: 15px;
+        font-style: italic;
+        text-align: center;
+    }
